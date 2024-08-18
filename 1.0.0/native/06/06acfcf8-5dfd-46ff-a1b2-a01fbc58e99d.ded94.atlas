@@ -1,0 +1,13 @@
+
+start2.jpg
+size: 542,731
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bl_ray
+  rotate: false
+  xy: 1, 1
+  size: 540, 729
+  orig: 540, 729
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,411 @@
+
+free_start_end.jpg
+size: 2046,1939
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baidacifubeijingguang/bl_btn_glow
+  rotate: false
+  xy: 0, 1789
+  size: 481, 150
+  orig: 481, 150
+  offset: 0, 0
+  index: -1
+baidacifubeijingguang/bl_ring_glow
+  rotate: false
+  xy: 1059, 16
+  size: 464, 462
+  orig: 464, 462
+  offset: 0, 0
+  index: -1
+baidacifubeijingguang/tw_trans_glow
+  rotate: false
+  xy: 367, 342
+  size: 690, 262
+  orig: 690, 262
+  offset: 0, 0
+  index: -1
+end/boom/bl_impact_00
+  rotate: false
+  xy: 1525, 0
+  size: 506, 478
+  orig: 506, 478
+  offset: 0, 0
+  index: -1
+frame_glow/tw_btn_sweep_00
+  rotate: false
+  xy: 483, 1776
+  size: 597, 163
+  orig: 597, 163
+  offset: 0, 0
+  index: -1
+frame_glow/tw_btn_sweep_01
+  rotate: false
+  xy: 1082, 1776
+  size: 597, 163
+  orig: 597, 163
+  offset: 0, 0
+  index: -1
+frame_glow/tw_btn_sweep_02
+  rotate: false
+  xy: 0, 1611
+  size: 597, 163
+  orig: 597, 163
+  offset: 0, 0
+  index: -1
+frame_glow/tw_btn_sweep_03
+  rotate: false
+  xy: 599, 1611
+  size: 597, 163
+  orig: 597, 163
+  offset: 0, 0
+  index: -1
+frame_glow/tw_btn_sweep_04
+  rotate: false
+  xy: 1198, 1596
+  size: 597, 163
+  orig: 597, 163
+  offset: 0, 0
+  index: -1
+frame_glow/tw_btn_sweep_05
+  rotate: false
+  xy: 0, 1446
+  size: 597, 163
+  orig: 597, 163
+  offset: 0, 0
+  index: -1
+frame_glow/tw_btn_sweep_06
+  rotate: false
+  xy: 599, 1446
+  size: 597, 163
+  orig: 597, 163
+  offset: 0, 0
+  index: -1
+frame_glow/tw_btn_sweep_07
+  rotate: false
+  xy: 1198, 1431
+  size: 597, 163
+  orig: 597, 163
+  offset: 0, 0
+  index: -1
+frame_glow/tw_btn_sweep_08
+  rotate: false
+  xy: 0, 1281
+  size: 597, 163
+  orig: 597, 163
+  offset: 0, 0
+  index: -1
+frame_glow/tw_btn_sweep_09
+  rotate: false
+  xy: 599, 1281
+  size: 597, 163
+  orig: 597, 163
+  offset: 0, 0
+  index: -1
+frame_glow/tw_btn_sweep_10
+  rotate: false
+  xy: 1198, 1266
+  size: 597, 163
+  orig: 597, 163
+  offset: 0, 0
+  index: -1
+frame_glow/tw_btn_sweep_11
+  rotate: false
+  xy: 0, 1116
+  size: 597, 163
+  orig: 597, 163
+  offset: 0, 0
+  index: -1
+frame_glow/tw_btn_sweep_12
+  rotate: false
+  xy: 599, 1116
+  size: 597, 163
+  orig: 597, 163
+  offset: 0, 0
+  index: -1
+frame_glow/tw_btn_sweep_13
+  rotate: false
+  xy: 1198, 1101
+  size: 597, 163
+  orig: 597, 163
+  offset: 0, 0
+  index: -1
+frame_glow/tw_btn_sweep_14
+  rotate: false
+  xy: 0, 951
+  size: 597, 163
+  orig: 597, 163
+  offset: 0, 0
+  index: -1
+frame_glow/tw_btn_sweep_15
+  rotate: false
+  xy: 599, 951
+  size: 597, 163
+  orig: 597, 163
+  offset: 0, 0
+  index: -1
+frame_glow/tw_btn_sweep_16
+  rotate: false
+  xy: 1198, 936
+  size: 597, 163
+  orig: 597, 163
+  offset: 0, 0
+  index: -1
+frame_glow/tw_btn_sweep_17
+  rotate: false
+  xy: 0, 786
+  size: 597, 163
+  orig: 597, 163
+  offset: 0, 0
+  index: -1
+frame_glow/tw_btn_sweep_18
+  rotate: false
+  xy: 599, 786
+  size: 597, 163
+  orig: 597, 163
+  offset: 0, 0
+  index: -1
+frame_glow/tw_btn_sweep_19
+  rotate: false
+  xy: 1198, 771
+  size: 597, 163
+  orig: 597, 163
+  offset: 0, 0
+  index: -1
+frame_vfx/fb_btn_glow_a_00
+  rotate: false
+  xy: 1681, 1761
+  size: 365, 178
+  orig: 365, 178
+  offset: 0, 0
+  index: -1
+frame_vfx/fb_btn_glow_a_01
+  rotate: true
+  xy: 1797, 1394
+  size: 365, 178
+  orig: 365, 178
+  offset: 0, 0
+  index: -1
+frame_vfx/fb_btn_glow_a_02
+  rotate: true
+  xy: 1797, 1027
+  size: 365, 178
+  orig: 365, 178
+  offset: 0, 0
+  index: -1
+frame_vfx/fb_btn_glow_a_03
+  rotate: true
+  xy: 1797, 660
+  size: 365, 178
+  orig: 365, 178
+  offset: 0, 0
+  index: -1
+frame_vfx/fb_btn_glow_a_04
+  rotate: false
+  xy: 0, 606
+  size: 365, 178
+  orig: 365, 178
+  offset: 0, 0
+  index: -1
+frame_vfx/fb_btn_glow_a_05
+  rotate: false
+  xy: 367, 606
+  size: 365, 178
+  orig: 365, 178
+  offset: 0, 0
+  index: -1
+frame_vfx/fb_btn_glow_a_06
+  rotate: false
+  xy: 734, 606
+  size: 365, 178
+  orig: 365, 178
+  offset: 0, 0
+  index: -1
+frame_vfx/fb_btn_glow_a_07
+  rotate: false
+  xy: 1101, 591
+  size: 365, 178
+  orig: 365, 178
+  offset: 0, 0
+  index: -1
+frame_vfx/fb_btn_glow_a_08
+  rotate: false
+  xy: 1468, 480
+  size: 365, 178
+  orig: 365, 178
+  offset: 0, 0
+  index: -1
+frame_vfx/fb_btn_glow_a_09
+  rotate: false
+  xy: 0, 426
+  size: 365, 178
+  orig: 365, 178
+  offset: 0, 0
+  index: -1
+
+free_start_end2.jpg
+size: 2008,1918
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baidacifubeijingguang/bl_shine
+  rotate: false
+  xy: 0, 739
+  size: 540, 543
+  orig: 540, 543
+  offset: 0, 0
+  index: -1
+baidacifubeijingguang/bl_sun_a
+  rotate: true
+  xy: 542, 752
+  size: 530, 527
+  orig: 530, 527
+  offset: 0, 0
+  index: -1
+baidacifubeijingguang/bl_sun_b
+  rotate: false
+  xy: 0, 1284
+  size: 634, 634
+  orig: 634, 634
+  offset: 0, 0
+  index: -1
+baidacifubeijingguang/fs_scatter_wave
+  rotate: false
+  xy: 636, 1401
+  size: 517, 517
+  orig: 517, 517
+  offset: 0, 0
+  index: -1
+baidacifubeijingguang/tw_swirl
+  rotate: false
+  xy: 0, 195
+  size: 540, 542
+  orig: 540, 542
+  offset: 0, 0
+  index: -1
+end/boom/bl_impact_01
+  rotate: true
+  xy: 542, 244
+  size: 506, 478
+  orig: 506, 478
+  offset: 0, 0
+  index: -1
+end/boom/bl_impact_02
+  rotate: true
+  xy: 1022, 244
+  size: 506, 478
+  orig: 506, 478
+  offset: 0, 0
+  index: -1
+end/boom/bl_impact_03
+  rotate: false
+  xy: 1502, 1440
+  size: 506, 478
+  orig: 506, 478
+  offset: 0, 0
+  index: -1
+end/boom/bl_impact_04
+  rotate: false
+  xy: 1502, 960
+  size: 506, 478
+  orig: 506, 478
+  offset: 0, 0
+  index: -1
+end/boom/bl_impact_09
+  rotate: false
+  xy: 1502, 480
+  size: 506, 478
+  orig: 506, 478
+  offset: 0, 0
+  index: -1
+end/boom/bl_impact_10
+  rotate: false
+  xy: 1502, 0
+  size: 506, 478
+  orig: 506, 478
+  offset: 0, 0
+  index: -1
+
+free_start_end3.jpg
+size: 1522,958
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+end/boom/bl_impact_11
+  rotate: false
+  xy: 0, 480
+  size: 506, 478
+  orig: 506, 478
+  offset: 0, 0
+  index: -1
+end/boom/bl_impact_12
+  rotate: false
+  xy: 0, 0
+  size: 506, 478
+  orig: 506, 478
+  offset: 0, 0
+  index: -1
+end/boom/bl_impact_17
+  rotate: false
+  xy: 508, 480
+  size: 506, 478
+  orig: 506, 478
+  offset: 0, 0
+  index: -1
+end/boom/bl_impact_18
+  rotate: false
+  xy: 508, 0
+  size: 506, 478
+  orig: 506, 478
+  offset: 0, 0
+  index: -1
+end/boom/bl_impact_19
+  rotate: false
+  xy: 1016, 480
+  size: 506, 478
+  orig: 506, 478
+  offset: 0, 0
+  index: -1
+end/boom/bl_impact_20
+  rotate: false
+  xy: 1016, 0
+  size: 506, 478
+  orig: 506, 478
+  offset: 0, 0
+  index: -1
+
+
+
+free_start_end4.png
+size: 1928,1439
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg/bns_bg_reel
+  rotate: false
+  xy: 1172, 210
+  size: 756, 687
+  orig: 756, 687
+  offset: 0, 0
+  index: -1
+bg/mianfeikaishibeijing
+  rotate: true
+  xy: 0, 0
+  size: 540, 1170
+  orig: 540, 1170
+  offset: 0, 0
+  index: -1
+bg/tw_bg
+  rotate: true
+  xy: 758, 899
+  size: 540, 1170
+  orig: 540, 1170
+  offset: 0, 0
+  index: -1
+bg/ui_bg_reel
+  rotate: false
+  xy: 0, 542
+  size: 756, 897
+  orig: 756, 897
+  offset: 0, 0
+  index: -1

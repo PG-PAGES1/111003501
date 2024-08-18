@@ -1,0 +1,495 @@
+
+butten.jpg
+size: 2022,1921
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+auto/sb_auto_hover_00
+  rotate: true
+  xy: 0, 275
+  size: 268, 279
+  orig: 268, 279
+  offset: 0, 0
+  index: -1
+auto/sb_auto_hover_01
+  rotate: true
+  xy: 281, 275
+  size: 268, 279
+  orig: 268, 279
+  offset: 0, 0
+  index: -1
+auto/sb_auto_hover_02
+  rotate: true
+  xy: 562, 270
+  size: 268, 279
+  orig: 268, 279
+  offset: 0, 0
+  index: -1
+auto/sb_auto_hover_03
+  rotate: true
+  xy: 843, 270
+  size: 268, 279
+  orig: 268, 279
+  offset: 0, 0
+  index: -1
+auto/sb_auto_hover_04
+  rotate: true
+  xy: 1124, 270
+  size: 268, 279
+  orig: 268, 279
+  offset: 0, 0
+  index: -1
+auto/sb_auto_hover_05
+  rotate: true
+  xy: 1405, 270
+  size: 268, 279
+  orig: 268, 279
+  offset: 0, 0
+  index: -1
+auto/sb_auto_hover_06
+  rotate: true
+  xy: 1686, 270
+  size: 268, 279
+  orig: 268, 279
+  offset: 0, 0
+  index: -1
+auto/sb_auto_hover_07
+  rotate: true
+  xy: 0, 5
+  size: 268, 279
+  orig: 268, 279
+  offset: 0, 0
+  index: -1
+auto/sb_auto_hover_08
+  rotate: true
+  xy: 281, 5
+  size: 268, 279
+  orig: 268, 279
+  offset: 0, 0
+  index: -1
+auto/sb_auto_hover_09
+  rotate: true
+  xy: 562, 0
+  size: 268, 279
+  orig: 268, 279
+  offset: 0, 0
+  index: -1
+auto/sb_auto_hover_10
+  rotate: true
+  xy: 843, 0
+  size: 268, 279
+  orig: 268, 279
+  offset: 0, 0
+  index: -1
+auto/sb_auto_hover_11
+  rotate: true
+  xy: 1124, 0
+  size: 268, 279
+  orig: 268, 279
+  offset: 0, 0
+  index: -1
+auto/sb_auto_hover_12
+  rotate: true
+  xy: 1405, 0
+  size: 268, 279
+  orig: 268, 279
+  offset: 0, 0
+  index: -1
+auto/sb_auto_hover_13
+  rotate: true
+  xy: 1686, 0
+  size: 268, 279
+  orig: 268, 279
+  offset: 0, 0
+  index: -1
+hover/sb_spin_hover_00
+  rotate: false
+  xy: 1265, 1468
+  size: 228, 228
+  orig: 228, 228
+  offset: 0, 0
+  index: -1
+hover/sb_spin_hover_01
+  rotate: false
+  xy: 1495, 1468
+  size: 228, 228
+  orig: 228, 228
+  offset: 0, 0
+  index: -1
+hover/sb_spin_hover_02
+  rotate: false
+  xy: 1725, 1468
+  size: 228, 228
+  orig: 228, 228
+  offset: 0, 0
+  index: -1
+hover/sb_spin_hover_03
+  rotate: false
+  xy: 0, 1243
+  size: 228, 228
+  orig: 228, 228
+  offset: 0, 0
+  index: -1
+hover/sb_spin_hover_04
+  rotate: false
+  xy: 230, 1243
+  size: 228, 228
+  orig: 228, 228
+  offset: 0, 0
+  index: -1
+hover/sb_spin_hover_05
+  rotate: false
+  xy: 460, 1243
+  size: 228, 228
+  orig: 228, 228
+  offset: 0, 0
+  index: -1
+hover/sb_spin_hover_06
+  rotate: false
+  xy: 690, 1243
+  size: 228, 228
+  orig: 228, 228
+  offset: 0, 0
+  index: -1
+hover/sb_spin_hover_07
+  rotate: false
+  xy: 920, 1243
+  size: 228, 228
+  orig: 228, 228
+  offset: 0, 0
+  index: -1
+hover/sb_spin_hover_08
+  rotate: false
+  xy: 1150, 1238
+  size: 228, 228
+  orig: 228, 228
+  offset: 0, 0
+  index: -1
+hover/sb_spin_hover_09
+  rotate: false
+  xy: 1380, 1238
+  size: 228, 228
+  orig: 228, 228
+  offset: 0, 0
+  index: -1
+hover/sb_spin_hover_10
+  rotate: false
+  xy: 1610, 1238
+  size: 228, 228
+  orig: 228, 228
+  offset: 0, 0
+  index: -1
+hover/sb_spin_hover_11
+  rotate: false
+  xy: 0, 1013
+  size: 228, 228
+  orig: 228, 228
+  offset: 0, 0
+  index: -1
+hover/sb_spin_hover_12
+  rotate: false
+  xy: 230, 1013
+  size: 228, 228
+  orig: 228, 228
+  offset: 0, 0
+  index: -1
+hover/sb_spin_hover_13
+  rotate: false
+  xy: 460, 1013
+  size: 228, 228
+  orig: 228, 228
+  offset: 0, 0
+  index: -1
+hover/sb_spin_hover_14
+  rotate: false
+  xy: 690, 1013
+  size: 228, 228
+  orig: 228, 228
+  offset: 0, 0
+  index: -1
+hover/sb_spin_hover_15
+  rotate: false
+  xy: 920, 1013
+  size: 228, 228
+  orig: 228, 228
+  offset: 0, 0
+  index: -1
+hover/sb_spin_hover_16
+  rotate: false
+  xy: 1150, 1008
+  size: 228, 228
+  orig: 228, 228
+  offset: 0, 0
+  index: -1
+hover/sb_spin_hover_17
+  rotate: false
+  xy: 1380, 1008
+  size: 228, 228
+  orig: 228, 228
+  offset: 0, 0
+  index: -1
+hover/sb_spin_hover_18
+  rotate: false
+  xy: 1610, 1008
+  size: 228, 228
+  orig: 228, 228
+  offset: 0, 0
+  index: -1
+hover/sb_spin_hover_19
+  rotate: false
+  xy: 0, 783
+  size: 228, 228
+  orig: 228, 228
+  offset: 0, 0
+  index: -1
+hover/sb_spin_hover_20
+  rotate: false
+  xy: 230, 783
+  size: 228, 228
+  orig: 228, 228
+  offset: 0, 0
+  index: -1
+particle_lift/ps_particle_b_00
+  rotate: false
+  xy: 253, 1698
+  size: 251, 223
+  orig: 251, 223
+  offset: 0, 0
+  index: -1
+particle_lift/ps_particle_b_01
+  rotate: false
+  xy: 506, 1698
+  size: 251, 223
+  orig: 251, 223
+  offset: 0, 0
+  index: -1
+particle_lift/ps_particle_b_02
+  rotate: false
+  xy: 759, 1698
+  size: 251, 223
+  orig: 251, 223
+  offset: 0, 0
+  index: -1
+particle_lift/ps_particle_b_03
+  rotate: false
+  xy: 1012, 1698
+  size: 251, 223
+  orig: 251, 223
+  offset: 0, 0
+  index: -1
+particle_lift/ps_particle_b_04
+  rotate: false
+  xy: 1265, 1698
+  size: 251, 223
+  orig: 251, 223
+  offset: 0, 0
+  index: -1
+particle_lift/ps_particle_b_05
+  rotate: false
+  xy: 1518, 1698
+  size: 251, 223
+  orig: 251, 223
+  offset: 0, 0
+  index: -1
+particle_lift/ps_particle_b_06
+  rotate: false
+  xy: 1771, 1698
+  size: 251, 223
+  orig: 251, 223
+  offset: 0, 0
+  index: -1
+particle_lift/ps_particle_b_07
+  rotate: false
+  xy: 0, 1473
+  size: 251, 223
+  orig: 251, 223
+  offset: 0, 0
+  index: -1
+particle_lift/ps_particle_b_08
+  rotate: false
+  xy: 253, 1473
+  size: 251, 223
+  orig: 251, 223
+  offset: 0, 0
+  index: -1
+particle_lift/ps_particle_b_09
+  rotate: false
+  xy: 506, 1473
+  size: 251, 223
+  orig: 251, 223
+  offset: 0, 0
+  index: -1
+particle_lift/ps_particle_b_10
+  rotate: false
+  xy: 759, 1473
+  size: 251, 223
+  orig: 251, 223
+  offset: 0, 0
+  index: -1
+particle_lift/ps_particle_b_11
+  rotate: false
+  xy: 1012, 1473
+  size: 251, 223
+  orig: 251, 223
+  offset: 0, 0
+  index: -1
+particle_lift/ps_particle_b_12
+  rotate: false
+  xy: 0, 1698
+  size: 251, 223
+  orig: 251, 223
+  offset: 0, 0
+  index: -1
+round/sb_glow_00
+  rotate: false
+  xy: 460, 779
+  size: 232, 232
+  orig: 232, 232
+  offset: 0, 0
+  index: -1
+round/sb_glow_01
+  rotate: false
+  xy: 694, 779
+  size: 232, 232
+  orig: 232, 232
+  offset: 0, 0
+  index: -1
+round/sb_glow_02
+  rotate: false
+  xy: 928, 774
+  size: 232, 232
+  orig: 232, 232
+  offset: 0, 0
+  index: -1
+round/sb_glow_03
+  rotate: false
+  xy: 1162, 774
+  size: 232, 232
+  orig: 232, 232
+  offset: 0, 0
+  index: -1
+round/sb_glow_04
+  rotate: false
+  xy: 1396, 774
+  size: 232, 232
+  orig: 232, 232
+  offset: 0, 0
+  index: -1
+round/sb_glow_05
+  rotate: false
+  xy: 1630, 774
+  size: 232, 232
+  orig: 232, 232
+  offset: 0, 0
+  index: -1
+round/sb_glow_06
+  rotate: false
+  xy: 0, 549
+  size: 232, 232
+  orig: 232, 232
+  offset: 0, 0
+  index: -1
+round/sb_glow_07
+  rotate: false
+  xy: 234, 545
+  size: 232, 232
+  orig: 232, 232
+  offset: 0, 0
+  index: -1
+round/sb_glow_08
+  rotate: false
+  xy: 468, 545
+  size: 232, 232
+  orig: 232, 232
+  offset: 0, 0
+  index: -1
+round/sb_glow_09
+  rotate: false
+  xy: 702, 540
+  size: 232, 232
+  orig: 232, 232
+  offset: 0, 0
+  index: -1
+round/sb_glow_10
+  rotate: false
+  xy: 936, 540
+  size: 232, 232
+  orig: 232, 232
+  offset: 0, 0
+  index: -1
+round/sb_glow_11
+  rotate: false
+  xy: 1170, 540
+  size: 232, 232
+  orig: 232, 232
+  offset: 0, 0
+  index: -1
+round/sb_glow_12
+  rotate: false
+  xy: 1404, 540
+  size: 232, 232
+  orig: 232, 232
+  offset: 0, 0
+  index: -1
+round/sb_glow_13
+  rotate: false
+  xy: 1638, 540
+  size: 232, 232
+  orig: 232, 232
+  offset: 0, 0
+  index: -1
+
+butten2.jpg
+size: 1888,279
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+auto/sb_auto_hover_14
+  rotate: false
+  xy: 0, 0
+  size: 268, 279
+  orig: 268, 279
+  offset: 0, 0
+  index: -1
+auto/sb_auto_hover_15
+  rotate: false
+  xy: 270, 0
+  size: 268, 279
+  orig: 268, 279
+  offset: 0, 0
+  index: -1
+auto/sb_auto_hover_16
+  rotate: false
+  xy: 540, 0
+  size: 268, 279
+  orig: 268, 279
+  offset: 0, 0
+  index: -1
+auto/sb_auto_hover_17
+  rotate: false
+  xy: 810, 0
+  size: 268, 279
+  orig: 268, 279
+  offset: 0, 0
+  index: -1
+auto/sb_auto_hover_18
+  rotate: false
+  xy: 1080, 0
+  size: 268, 279
+  orig: 268, 279
+  offset: 0, 0
+  index: -1
+auto/sb_auto_hover_19
+  rotate: false
+  xy: 1350, 0
+  size: 268, 279
+  orig: 268, 279
+  offset: 0, 0
+  index: -1
+auto/sb_auto_hover_20
+  rotate: false
+  xy: 1620, 0
+  size: 268, 279
+  orig: 268, 279
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+start.png
+size: 256,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ui_chac
+  rotate: false
+  xy: 0, 0
+  size: 256, 1032
+  orig: 256, 1032
+  offset: 0, 0
+  index: -1
